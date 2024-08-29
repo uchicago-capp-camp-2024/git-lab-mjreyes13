@@ -1,5 +1,5 @@
 # CAPP Camp Git Lab
-
+#Maria Jose Reyes
 Like yesterday's lab, today's lab will ask you to take some steps with Git and run a `check.py` script as you go.
 
 Additionally, today you'll be submitting at the end via Gradescope—a tool used in many classes.
